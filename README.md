@@ -32,7 +32,7 @@ Welcome to my GitHub page! I'm **zS1m**, an energetic **front-end developer**.
 &n
 
 ## About me 
-- ✒ 
+- ✒ [My blog](https://zs1m.github.io/)
 - 💬 Ask me about anything
 
 ***I love to make friends with different people, so if you want to say hi, I'll be happy to meet you more!*** 😊 
