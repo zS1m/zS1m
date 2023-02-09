@@ -29,7 +29,7 @@ Welcome to my GitHub page! I'm **zS1m**, an energetic **front-end developer**.
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-&n
+&nbsp;
 
 ## About me 
 - ✒ [My blog](https://zs1m.github.io/)
