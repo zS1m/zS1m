@@ -1,4 +1,4 @@
-## Hi there, this is zS1m! 👋 😃
+## Hi, this is zS1m! 👋 😃
 [![Gmail](https://img.shields.io/badge/-chaosspades@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chaosspades@gmail.com)  
 Welcome to my GitHub page! I'm **zS1m**, an energetic **front-end developer**.
 
