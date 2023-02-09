@@ -1,5 +1,12 @@
-### Hi there 👋 
-### This is zS1m, an energetic font-end developer.
+## Hi there 👋 
+### This is zS1m! 
+Welcome to my GitHub page! I'm zS1m, an energetic front-end developer. 
+
+### 💼 Things I'm currently working on: 
+
+### 🌱 Things I'm challenging myself with:
+
+### 🛠 Tech Stack
 
 <!--
 **zS1m/zS1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
