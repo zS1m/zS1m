@@ -19,7 +19,7 @@ Welcome to my GitHub page! I'm **zS1m**, an energetic **front-end developer**.
 ### 🛠 Tech Stack 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" alt="languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zS1m&layout=compact&card_width=417" />
+    <img align="right" alt="languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zS1m&layout=compact&card_width=417&count_private=true" />
   </a> 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
