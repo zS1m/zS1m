@@ -7,9 +7,9 @@ Welcome to my GitHub page! I'm **zS1m**, an energetic **front-end developer**.
 </a> 
 
 ### 💼 Things I'm currently working on: 
-- 📊 Insight system visualization 
+- 📊 Insight system visualization
+- ☁︎ Device management cloud platform
 - 📈 Improve front-end development skills 
-- 🖥 Delve into VM and NAS
 
 ### 🌱 Things I'm challenging myself with: 
 - ⌨ Keep writing blogs 
