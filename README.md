@@ -1,5 +1,5 @@
 ## Hi, this is zS1m! 👋 
-[![Gmail](https://img.shields.io/badge/-chaosspades@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chaosspades@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-mail@contrails.space-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mail@contrails.space)  
 Welcome to my GitHub page! I'm **zS1m**, an energetic **front-end developer**.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -7,8 +7,8 @@ Welcome to my GitHub page! I'm **zS1m**, an energetic **front-end developer**.
 </a> 
 
 ### 💼 Things I'm currently working on: 
-- 📊 Insight system visualization
 - ☁︎ Device management cloud platform
+- 📊 Insight system visualization
 - 📈 Improve front-end development skills 
 
 ### 🌱 Things I'm challenging myself with: 
@@ -34,7 +34,7 @@ Welcome to my GitHub page! I'm **zS1m**, an energetic **front-end developer**.
 </p>
 
 ## About me 
-- ✒ [My blog](https://contrails.space)
+- ✒ [My blog](https://www.contrails.space)
 - 💬 Ask me about anything
 
 ***I love to make friends with different people, so if you want to say hi, I'll be happy to meet you more!*** 😊 
