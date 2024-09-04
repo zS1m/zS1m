@@ -1,6 +1,6 @@
 ## Hi, this is zS1m! 👋 
 [![Gmail](https://img.shields.io/badge/-mail@contrails.space-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mail@contrails.space)  
-Welcome to my GitHub page! I'm **zS1m**, an energetic **front-end developer**.
+Welcome to my GitHub page! I'm **zS1m**, an energetic **front-end developer**. [I'm seeking for a goob job!](https://contrails.notion.site/2d373fd3a6b14295ac1a1ab67c8699ef?pvs=4)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zS1m&show_icons=true&theme=buefy&count_private=true" />
