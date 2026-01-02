@@ -1,50 +1,34 @@
-## Hi, this is zS1m! 👋 
-[![Gmail](https://img.shields.io/badge/-mail@contrails.space-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mail@contrails.space)  
-Welcome to my GitHub page! I'm **zS1m**, an energetic **front-end developer**.
+## Hi, I'm zS1m 👋
 
+[![Gmail](https://img.shields.io/badge/-mail@contrails.space-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mail@contrails.space)
 
-### 💼 Things I'm currently working on: 
-- ☁︎ Device management cloud platform
-- 📊 Insight system visualization
-- 📈 Improve front-end development skills 
+I'm a software engineer interested in **web engineering, systems, and long-term project design**.  
+I enjoy working on real-world projects where **constraints, trade-offs, and production issues** matter.
 
-### 🌱 Things I'm challenging myself with: 
-- ⌨ Keep writing blogs 
-- 💪 Workout 3 days a week 
-- 🛌 Go to bed earlier for better tomorrow
+---
 
-### 🛠 Tech Stack 
-<p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="10%" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>
-  <br /> 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
+### ✍️ Engineering Blog (English)
 
-## About me 
-- ✒ [My blog](https://contrails.space)
-- 💬 Ask me about anything
+I write about production experiences, architectural decisions, and lessons learned from real projects:
 
-***I love to make friends with different people, so if you want to say hi, I'll be happy to meet you more!*** 😊 
-> 生如远舟，一期一会
+🔗 https://contrails.space/en
 
-<!--
-**zS1m/zS1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selected topics include:
+- Next.js rendering strategies in production
+- System design trade-offs in real-world projects
+- Long-term project maintenance and evolution
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Focus
+
+- **Front-end**: TypeScript, Next.js, Vue
+- **Engineering topics**: Production debugging, performance, architecture decisions
+- **Tooling**: Git, modern frontend tooling, CI/CD basics
+
+---
+
+### 📫 Contact
+
+- Email: mail@contrails.space
+- GitHub: https://github.com/zS1m
