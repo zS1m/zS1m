@@ -28,7 +28,7 @@ Welcome to my GitHub page! I'm **zS1m**, an energetic **front-end developer**.
 </p>
 
 ## About me 
-- ✒ [My blog](https://www.contrails.space)
+- ✒ [My blog](https://contrails.space)
 - 💬 Ask me about anything
 
 ***I love to make friends with different people, so if you want to say hi, I'll be happy to meet you more!*** 😊 
